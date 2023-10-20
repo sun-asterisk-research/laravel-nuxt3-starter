@@ -8,13 +8,13 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^5.0.0-4",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/lodash": "^4.14.179",
     "eslint": "^8.25.0",
     "eslint-config-sunasteriskrnd": "^0.1.0-beta.6",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-import-resolver-webpack": "^0.13.2",
-    "nuxt": "npm:nuxt3@3.0.0-rc.12-27730995.2894a75",
+    "nuxt": "^3.8.0",
     "postcss": "^8.4.18",
     "postcss-loader": "^7.0.1",
     "sass": "^1.55",
@@ -24,7 +24,7 @@
   },
   "version": "0.0.0",
   "dependencies": {
-    "@pinia/nuxt": "^0.1.8",
+    "@pinia/nuxt": "^0.5.1",
     "ky": "^0.29.0",
     "lodash": "^4.17.21",
     "pinia": "^2.0.11",
